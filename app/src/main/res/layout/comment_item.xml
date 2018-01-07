@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:selectableItemBackground"
+    android:clickable="true"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingBottom="18dp"
+    android:paddingRight="16dp"
+
+    tools:background="@android:color/transparent"
+    tools:ignore="UseCompoundDrawables">
+
+    <com.github.siyamed.shapeimageview.CircularImageView
+        android:id="@+id/profile_image"
+        android:layout_width="46dp"
+        android:layout_height="43dp"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/chat_user_icon"
+        tools:ignore="RtlHardcoded"/>
+
+
+
+    <TextView
+
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_fill_border"
+
+        android:padding="16dp"
+        android:textColor="@color/colorAccent"
+        tools:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pharetra, sapien at luctus semper, justo dui accumsan lorem, nec pretium dui eros pharetra leo." />
+
+</LinearLayout>

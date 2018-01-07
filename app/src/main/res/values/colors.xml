@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#407fab</color>
+    <color name="colorPrimaryDark">#88b2bb</color>
+
+    <color name="colorAccent">#A44365</color>
+    <color name="myColor">#315054</color>
+    <color name="splashColor">#E8D9C1</color>
+    <color name="startviolate">#8E6C7C</color>
+    <color name="endviolate">#734E67</color>
+    <color name="graylight">#e0e0e0</color>
+    endblue
+</resources>
