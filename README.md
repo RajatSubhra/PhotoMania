@@ -1,5 +1,5 @@
 # Full APP demo video link  
-coming soon!
+https://youtu.be/yPLGcPNExJI
 
 # Download apk from 
 https://github.com/RajatSubhra/PhotoMania/blob/master/photo_mania.apk  
