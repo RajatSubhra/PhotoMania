@@ -1,7 +1,7 @@
 package io.rajat.sample.photo_mania.models;
 
 /**
- * Created by adityanarayan on 5/11/17.
+ * Created by Rajat on 5/11/17.
  */
 
 public class Comment {
